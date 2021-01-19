@@ -7,7 +7,7 @@ for i in range(N):
 x.sort()
 
 max = x[-1] - x[0]
-min = 1
+min = 1 # 그냥 최소값은 거리가 1이라고 해줌.
 result = 0
 
 while (min <= max):
