@@ -13,7 +13,7 @@ public class _1912 {
         for (int i=1; i<=n; ++i) {
             inputs[i] = sc.nextInt();
 
-            if (i == 1) {
+            if (i == 1) { // 첫번째는 그냥 그대로 넣어줌
                 dp[1] = inputs[1];
                 _max = dp[1];
                 continue;
