@@ -14,7 +14,7 @@ class Node {
     }
 }
 
-public class _3190 {
+public class _2573 {
     // 몇년차
     static int result;
     static int N;
